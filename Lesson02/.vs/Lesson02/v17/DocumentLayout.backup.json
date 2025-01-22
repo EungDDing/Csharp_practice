@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Csharp_practice\\Lesson02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F836F5A-5EB8-4FBC-AB4A-55A3F67A85A6}|Lesson02.csproj|c:\\csharp_practice\\lesson02\\sample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F836F5A-5EB8-4FBC-AB4A-55A3F67A85A6}|Lesson02.csproj|solutionrelative:sample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "sample.cs",
+              "DocumentMoniker": "C:\\Csharp_practice\\Lesson02\\sample.cs",
+              "RelativeDocumentMoniker": "sample.cs",
+              "ToolTip": "C:\\Csharp_practice\\Lesson02\\sample.cs",
+              "RelativeToolTip": "sample.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T19:14:24.454Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

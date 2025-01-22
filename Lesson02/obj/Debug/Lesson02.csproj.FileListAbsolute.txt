@@ -1,0 +1,7 @@
+C:\Csharp_practice\Lesson02\bin\Debug\Lesson02.exe.config
+C:\Csharp_practice\Lesson02\bin\Debug\Lesson02.exe
+C:\Csharp_practice\Lesson02\bin\Debug\Lesson02.pdb
+C:\Csharp_practice\Lesson02\obj\Debug\Lesson02.csproj.AssemblyReference.cache
+C:\Csharp_practice\Lesson02\obj\Debug\Lesson02.csproj.CoreCompileInputs.cache
+C:\Csharp_practice\Lesson02\obj\Debug\Lesson02.exe
+C:\Csharp_practice\Lesson02\obj\Debug\Lesson02.pdb
