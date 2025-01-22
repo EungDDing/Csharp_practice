@@ -1,0 +1,7 @@
+C:\Users\EungDDing\source\repos\CSharp_practice\CSharp_practice\bin\Debug\CSharp_practice.exe.config
+C:\Users\EungDDing\source\repos\CSharp_practice\CSharp_practice\bin\Debug\CSharp_practice.exe
+C:\Users\EungDDing\source\repos\CSharp_practice\CSharp_practice\bin\Debug\CSharp_practice.pdb
+C:\Users\EungDDing\source\repos\CSharp_practice\CSharp_practice\obj\Debug\CSharp_practice.csproj.AssemblyReference.cache
+C:\Users\EungDDing\source\repos\CSharp_practice\CSharp_practice\obj\Debug\CSharp_practice.csproj.CoreCompileInputs.cache
+C:\Users\EungDDing\source\repos\CSharp_practice\CSharp_practice\obj\Debug\CSharp_practice.exe
+C:\Users\EungDDing\source\repos\CSharp_practice\CSharp_practice\obj\Debug\CSharp_practice.pdb
