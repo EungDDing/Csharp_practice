@@ -1,5 +1,4 @@
 ﻿using System;
-using System.IO;
 using System.Windows.Forms;
 
 class Sample
@@ -33,5 +32,5 @@ class Sample
         lb2.Parent = fm;
 
         Application.Run(fm);
-    }    
+    }
 }
