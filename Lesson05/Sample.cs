@@ -93,3 +93,22 @@ class RacingCar : Car
         left = left + 100;
     }
 }
+
+/*
+class Sample : Form // Form을 확장한 클래스
+{
+    public static void Main() 
+    {
+        Application.Run(new Sample()); // 클래스로부터 오브젝트를 작성해서 윈도우 프로그램을 실행
+    }
+    public Sample() // 생성자
+    {
+        this.Text = "샘플"
+        this.Width = 400;
+        this.Height = 200;
+        this.BackgroundImage = Image.FromFile("c:\\car.bmp");
+    }
+}
+*/
+
+
