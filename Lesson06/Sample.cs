@@ -2,7 +2,7 @@
 using System.Security.Policy;
 using System.Windows.Forms;
 
-class Sample : Form
+class Sample : Form // 마우스 커서가 드나들때 이벤트 처리
 {
     private Label lb;
 
